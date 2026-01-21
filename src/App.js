@@ -14,6 +14,20 @@ function App() {
           <label>Last Name</label>
           <input></input>
         </div>
+         <div>
+          <label>Email Addres:</label>
+          <input></input>
+        </div>
+         <div>
+          <label>Password</label>
+          <input></input>
+        </div>
+        <div>
+          <lable>Mobile Number:</lable>
+          <input></input>
+        </div>
+       
+
       </form>
           </div>
   );
