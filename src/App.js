@@ -15,7 +15,7 @@ function App() {
           <input></input>
         </div>
          <div>
-          <label>Email Addres:</label>
+          <label>Email</label>
           <input></input>
         </div>
          <div>
@@ -23,8 +23,11 @@ function App() {
           <input></input>
         </div>
         <div>
-          <lable>Mobile Number:</lable>
+          <label>Mobile Number:</label>
           <input></input>
+        </div>
+        <div>
+          <button>signup</button>
         </div>
        
 
